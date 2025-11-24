@@ -21,3 +21,5 @@ All'interno del notebook [classification.ipynb](https://github.com/gabrielee20/r
 - Selezionare gli **iperparametri**
 - Fare il **fitting** del modello
 - Svolgere la **valutazione**
+
+[Link alla presentazione del lavoro svolto](https://docs.google.com/presentation/d/1hAzFPP0qTSyECLbZrUDlQdgpPHK8fywlUraZr2Qwywo/edit?usp=sharing)
