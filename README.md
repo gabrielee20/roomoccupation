@@ -22,4 +22,6 @@ All'interno del notebook [classification.ipynb](https://github.com/gabrielee20/r
 - Fare il **fitting** del modello
 - Svolgere la **valutazione**
 
+[Link al dataset utilizzato](https://archive-beta.ics.uci.edu/dataset/357/occupancy+detection)
 [Link alla presentazione del lavoro svolto](https://docs.google.com/presentation/d/1hAzFPP0qTSyECLbZrUDlQdgpPHK8fywlUraZr2Qwywo/edit?usp=sharing)
+
